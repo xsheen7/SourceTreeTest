@@ -2,4 +2,8 @@ local init
 
 remote 0
 
+
 master 0
+
+test 0
+
