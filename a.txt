@@ -32,3 +32,4 @@ master add
 aa add
 
 master doaa
+aa doaa
