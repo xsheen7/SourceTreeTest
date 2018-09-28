@@ -34,5 +34,6 @@ aa add
 master doaa
 aa doaa
 
+aa update
 
 master update
